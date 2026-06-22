@@ -10,22 +10,22 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "不",
+    "你確定嗎? 🤔",
+    "桃子拜託... 🥺",
+    "如果你拒絕我會很傷心ㄉ...",
+    "我會超級傷心... 😢",
+    "拜託??? 💔",
+    "表醬對我...",
+    "最後機會!!!! 😭",
+    "你抓不到我ㄉ 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "先拒絕我看看... 我賭你想知道會怎樣 😏",
+    "繼續, 繼續點不... 就一次 👀",
+    "你錯過ㄌ 😈",
+    "點不!!!! 我賭你不敢 😏"
 ]
 
 let yesTeasedCount = 0
